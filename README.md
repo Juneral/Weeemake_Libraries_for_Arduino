@@ -3,7 +3,7 @@ Arduino Library for WeeeMake Electronic Modules
 
 How to use:
 
-1.Download the source from the Github [https://github.com/WEEEMAKE/Weeemake-Libraries](https://github.com/WEEEMAKE/Weeemake-Libraries)
+1.Download the source from the Github [https://github.com/WEEEMAKE/Weeemake_Libraries_for_Arduino](https://github.com/WEEEMAKE/Weeemake_Libraries_for_Arduino)
 
 2.Copy the Weeemake folder to your arduino default library. 
 
